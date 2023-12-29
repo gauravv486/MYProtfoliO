@@ -1,0 +1,20 @@
+#hero {
+    background-image: url(../img/gaurav1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#hero .hero{
+    max-width: 1500;
+    margin: 0 auto;
+    padding: 0 50px;
+}
+#hero h1{
+    font-size: 7rem;
+    font-weight: bold;
+    position: left;
+    color:blue;
+}
+#hero.left{
+    position: left;
+}

@@ -1,0 +1,46 @@
+#about .about {
+    flex-direction: column-reverse;
+    text-align: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 100px 20px;
+    /* background-color: black; */
+
+}
+/* left colume styling */
+#about .col-left {
+    width: 250px;
+    height: 350px;
+
+}
+#about .col-left .about-img {
+    height: 70%;
+    width: 80%;
+    position: left;
+
+}
+
+
+/* right colume styling */
+#about .col-right {
+    width: 100%;
+}
+#about .col-right h1 {
+    font-size: 3rem;
+}
+#about .col-right h2 {
+    font-size: 2rem;
+    font-weight: 500;
+
+}
+#about .col-right p {
+    font-size: 1.5 rem;
+}
+#about .col-right .cta {
+    color: blue;
+    font-size: 2rem;
+}
+#ggg {
+    border-radius: 50%;
+    height: 88%;
+}
